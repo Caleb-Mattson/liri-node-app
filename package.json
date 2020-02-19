@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "YouTube link for explanation of app and proof of pudding - https://www.youtube.com/watch?v=JIyNDCKz16w",
+  "main": "liriApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caleb-Mattson/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caleb-Mattson/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Caleb-Mattson/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.4",
+    "node-spotify-api": "^1.1.1"
+  }
+}
